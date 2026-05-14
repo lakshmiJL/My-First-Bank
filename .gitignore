@@ -24,6 +24,4 @@ dist-ssr
 *.sw?
 
 # Project files
-bun.lockb
-package-lock.json
 yarn.lock
